@@ -1,4 +1,6 @@
 #include <iostream>
+ #include<bits/stdc++.h>
+ 
 int main (){
 	std::cout << "Enter a number:";
 	int x;
